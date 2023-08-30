@@ -11,7 +11,11 @@ namespace OopsConcept
         public void PublicAM()
         {
             //Uc1
-            Console.WriteLine("Public AC");
+            Console.WriteLine("Public AM");
+
+            //Uc2
+            Console.WriteLine("Private AM");
+
         }
     }
 }
